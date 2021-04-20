@@ -110,7 +110,7 @@ class ModelBuilder:
         plt.show()
     
 builder=ModelBuilder()
-builder.run()
+#builder.run()
         
 
     
